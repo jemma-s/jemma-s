@@ -9,4 +9,6 @@ Python | R | Power BI
 
 ## Current projects
 1. [Swimmer dashboard endurance](https://github.com/jemma-s/Swimmer-dashboard-endurance)
-: A Power BI dashboard exploring current endurance swim results. Views are made on a club and member level. 
+: A Power BI dashboard exploring current endurance swim results. Views are made on a club and member level.
+2. [Endurance wrapped 2025] (https://github.com/jemma-s/endurance-wrapped-2025)
+: A collection of images created using Canva to display endurance year-end statistics for 2025. 
