@@ -13,4 +13,4 @@ Python | R | Power BI
 2. [Endurance wrapped 2025](https://github.com/jemma-s/endurance-wrapped-2025)
 : A collection of images created using Canva to display endurance year-end statistics for 2025.
 3. [Swimming recorder app](https://github.com/jemma-s/Recorder-app-somerset)
-4. An app created with PyQt6 in Python that assists the recorder at Somerset Masters Swimming Club. The app creates a user-friendly interface for web scraping frequently used websites to obtain swimming data that was previously entered manually. 
+: An app created with PyQt6 in Python that assists the recorder at Somerset Masters Swimming Club. The app creates a user-friendly interface for web scraping frequently used websites to obtain swimming data that was previously entered manually. 
